@@ -1,7 +1,7 @@
 ### AivleSchool_BirdStrike
 
 #### 썸네일
-![DX 14조 썸네일](https://github.com/user-attachments/assets/ae2d6f6b-f5dd-44ae-ac8c-34c8a083668e){: width="100" height="100"}
+![DX 14조 썸네일](https://github.com/user-attachments/assets/ae2d6f6b-f5dd-44ae-ac8c-34c8a083668e)
 
 #### 1P 설명서
 ![DX 14조 1P 설명서](https://github.com/user-attachments/assets/be382f2b-0aca-40cb-90aa-4c5fb88bed3d)
